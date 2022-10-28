@@ -1,8 +1,8 @@
 ## Olá eu sou o Luís Henrique, desenvolvedor web PHP e Node.js!
 <div align="center">
   <a href="https://github.com/luisreisalmeida">
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=luisreisalmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisreisalmeida&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisreisalmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisreisalmeida&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-Php" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
